@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spirits voice concerning himselfe, or, A faithful and clear discovery of the operations of the spirit in the hearts of the saints by Peter Atkinson ...</title>
+            <author>Atkinson, Peter, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26135</idno>
+            <idno type="STC">Wing A4130</idno>
+            <idno type="STC">ESTC R17494</idno>
+            <idno type="EEBO-CITATION">12656371</idno>
+            <idno type="OCLC">ocm 12656371</idno>
+            <idno type="VID">65383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 341:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spirits voice concerning himselfe, or, A faithful and clear discovery of the operations of the spirit in the hearts of the saints by Peter Atkinson ...</title>
+                  <author>Atkinson, Peter, 17th cent.</author>
+               </titleStmt>
+               <extent>[5], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Lock for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Spirit --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65383:1"/>
+            <pb facs="tcp:65383:1"/>
+            <p>THE SPIRITS VOICE Concerning HIMSELFE: <hi>OR,</hi> A Faithful and Clear DISCOVERY Of the Operations of the SPIRIT IN The Hearts of the Saints.</p>
+            <q>
+               <p>Omnes enim quando oramus, mendici Dei ſumus, antè januam magni patris familias ſtamus, imò etiam proſternimur, ſupplices ingemiſcimus aliquid volentes accipere, &amp; ipſum aliquid ipſe Deus eſt.</p>
+               <bibl>Auguſt. de verbis Domini, Serm. 15.</bibl>
+            </q>
+            <q>
+               <p>Ad omnem ſanctàm operationem ab homine peragendam, requiritur, non modo gratià regenerationis hominem habitualiter disponens, ſed &amp; motio Dei gratioſa, ipſum actualiter movens, ſinè qua vel ſola, licet propter grataim regenerationis dicatur poſſe bene ope<g ref="char:EOLhyphen"/>rari, fieri non poteſt, ut actubene operetur.</p>
+               <bibl>Twiſſ. Vind. Gra<g ref="char:EOLhyphen"/>tiae, &amp;c.</bibl>
+            </q>
+            <p>BY <hi>PETER ATKINSON,</hi> Miniſter of the ever<g ref="char:EOLhyphen"/>laſting GOSPEL.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Lock</hi> for the Author, 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65383:2" rendition="simple:additions"/>
+            <pb facs="tcp:65383:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N trial of ſpirits (Christian Reader) keep alwayes in mind this neceſſary Truth concern<g ref="char:EOLhyphen"/>ing the Spirit of Truth, which is, <note place="margin">Joh. 16.14</note> That the Spirit of truth glorifies Jeſus Christ; Hence thou mayeſt ſafely conclude, That thoſe ſpirits that deny Jeſus Chriſt, that rob him of his glory, are not of God. Thoſe that with the <hi>Arians, Familiſts,</hi> and <hi>Paul Beſt,</hi> (none of the beſt) deny Chriſts Divinity; or with the <hi>Eutychi<g ref="char:EOLhyphen"/>ans,</hi> his Humanity; or with the <hi>Neſto<g ref="char:EOLhyphen"/>rians,</hi> teach that he bath two perſons; or with the <hi>Monothelites,</hi> that he hath onely
+<pb facs="tcp:65383:3" rendition="simple:additions"/> one Will; or with the <hi>Macedonians</hi> and <hi>Valentinians,</hi> that he brought his Body from Heaven; or with the <hi>Soci<g ref="char:EOLhyphen"/>nians,</hi> deny his incarnation and ſatisfa<g ref="char:EOLhyphen"/>ction for ſin; or with the <hi>Quaker</hi> deny juſtification by the ſufferings of Chriſt at <hi>Jeruſalem;</hi> theſe do not glorifie, but diſhonor Chriſt, and ſo are not led by the holy Ghoſt. This Caution may be one preſervative againſt poyſon; If thou woul<g ref="char:EOLhyphen"/>dest know more concerning the holy ſpi<g ref="char:EOLhyphen"/>rit, read over this little <hi>Treatiſe;</hi> the time will not be long, thy labour (J hope) will not be loſt; it's ſhort; good reaſon; the world is full of Bookes. The Commu<g ref="char:EOLhyphen"/>nion of the Holy Ghoſt be with thee. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <closer>
+               <signed>Thine <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.P. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:65383:3"/>
+            <head>THE SPIRITS VOICE CONCERNING HIMSELF.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough ſome ſcoff at the Saints of God in reference to their having the ſpirit of Grace in them; and others deluded and preſumptuous, boaſt of the Spirit of God, who are in<g ref="char:EOLhyphen"/>deed inſpired with an evil ſpirit, as <hi>Zedekiah</hi> the falſe Prophet, 1 <hi>King.</hi> 22.24. and ſome audaciouſly aſ<g ref="char:EOLhyphen"/>ſert, That grace may be loſt, and the ſpirit taken a<g ref="char:EOLhyphen"/>way from ſuch as are truly Saints; yet the truth is, the ſpirit of grace is in all thoſe, onely in thoſe, and never departs from any of thoſe, who are indeed born of him, and renewed by him.</p>
+            <pb n="2" facs="tcp:65383:4"/>
+            <p>Search Divine Records, you ſhall find how God hath promiſed to pour his ſpirit upon his people, <hi>Iſa.</hi> 44.3,4,5. as alſo that he ſhall not depart from them, <hi>Iſa.</hi> 59.21. He is ſaid to be given unto them, <hi>Rom.</hi> 5.5. To dwell in them, <hi>Rom.</hi> 8.11. 1 <hi>Cor.</hi> 3.16. to abide with them, <hi>John</hi> 15.16. They are the habi<g ref="char:EOLhyphen"/>tation of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od by his ſpirit, <hi>Eph.</hi> 2.22. the Houſe of God, <hi>Heb.</hi> 3 6. they are the temple of God, 1 <hi>Cor.</hi> 3.16. yea, their bodies are the temple of the Holy Ghoſt, 1 <hi>Cor.</hi> 6.19.</p>
+            <p>Now for the prevention of ſelf-deceiving, and for our ſingular comfort and encouragement in God's wayes, let us diligently examine our ſelves whether the ſpirit be in us, by theſe bleſſed effects of the ſpi<g ref="char:EOLhyphen"/>rit following.</p>
+            <p>
+               <label>1.</label> They that have the ſpirit know all things, as the Apoſtle ſaith, <note place="margin">1 Iohn 2.20.</note> 
+               <hi>Ye have an unction from that holy one,</hi> (that's the ſpirit from Chriſt your Head) <hi>and ye know all things;</hi> in the <hi>Syriac</hi> it is, <hi>Ye know, or diſcern every man;</hi> as if St. <hi>John</hi> had ſaid, Ye know thoſe falſe Teachers that went out from us, and were not of us; and it's according to that of our Saviour, <hi>Ye ſhall know them by their fruits,</hi> partly by their pride contention, ſeperation; partly by their Doctrine; for if any man do Gods will, he ſhall know the do<g ref="char:EOLhyphen"/>ctrine whether it be of God; the Saints know falſe Doctrine ſo as not to know it, own it, but diſallow it; <hi>They know not</hi> (ſaith Chriſt) <hi>the voice of ſtrangers:</hi> Alſo they know falſe Teachers by the fruit of their Doctrine in their followers, which is neglect of du<g ref="char:EOLhyphen"/>ty, looſeneſs of life.</p>
+            <pb n="11" facs="tcp:65383:4"/>
+            <p>But this is not all, for in the 27. verſe the ſpirit is ſaid to teach them ſo, that they needed not that any man ſhould teach them; and its ſaid alſo, That he had thus taught them; ſee the words, that is, They needed not that any man ſhould teach them any o<g ref="char:EOLhyphen"/>ther thing, any otherwiſe then the ſpirit had taught them. Now for the ſpirits teaching, obſerve how God is ſaid to ſend his word by his ſpirit in his Pro<g ref="char:EOLhyphen"/>phets, <hi>Zech.</hi> 7.12. the ſpirit of the Lord was upon Chriſt to preach the Goſpel, <hi>Luke</hi> 4.18. and the A<g ref="char:EOLhyphen"/>poſtles are ſaid to ſpeak the things of God in the words which the Holy Ghoſt teacheth, 1 <hi>Cor.</hi> 2.13. therefore the Holy Ghoſt taught the Saints by the Prophets, Chriſt, &amp; the Apoſtles; and ſo the words of the Prophets, Chriſt and his Apoſtles, are the words of the Holy Ghoſt; theſe words he teacheth and makes known unto the Saints, other words they needed not know; none are like theſe, nor more words, theſe make wiſe unto ſalvation.</p>
+            <p>Further, they know all things neceſſary to be known; they know the firſt Principles of the Ora<g ref="char:EOLhyphen"/>cles of God; they know Chriſt and him crucified; they know the grace of our Lord Jeſus Chriſt, how that being rich for their ſakes, he became poor, that they through his poverty might be made rich. They know that they are tranſlated from death to life, that they have everlaſting life, that all things work together for their good.</p>
+            <p>
+               <label>2.</label> The ſpirit of God being in a man, doth bear wit<g ref="char:EOLhyphen"/>neſs with his ſpirit that he is a child of God, <hi>Rom.</hi> 8.16. Theſe two ſpirits, the ſpirit of man ſpirituali<g ref="char:EOLhyphen"/>zed, the conſcience purged from dead works, which
+<pb n="12" facs="tcp:65383:5"/> is a thouſand witneſſes; and the Holy Ghoſt (the ſpi<g ref="char:EOLhyphen"/>rit of truth) joining with man's ſpirit for confirma<g ref="char:EOLhyphen"/>tion of this neceſſary truth, do make uſe of the ſpi<g ref="char:EOLhyphen"/>rit's words in Scripture, and the ſpirit's work upon man's heart, after this manner.</p>
+            <p>Thoſe that come out from amongſt the ungodly, are ſeperate, and touch not the unclean thing; they are God's children, he hath promiſed to be a Father to ſuch, and that they ſhall be unto him ſons and daughters, 2 <hi>Cor.</hi> 6.16,17. But thou art (ſay theſe witneſſes to a man) come out, art ſeperate, doſt not touch the unclean thing, therefore thou art a child of God. Further, they teſtifie after this manner; Thoſe that are poor in ſpirit mourn, hunger and thirſt af<g ref="char:EOLhyphen"/>ter righteouſneſs, are bleſſed, and ſo Gods children; but thou art poor in ſpirit, doſt mourn, hunger and thirſt after righteouſneſs, <hi>Ergo,</hi> thou art a childe of God. And thus theſe that receive Chriſt to them, he gives power to become the ſons of God; thoſe that love thoſe that are begotten, are alſo begotten of God, and are his own dear children; but thou (ſay theſe witneſſes to a man) haſt received the Lord Chriſt (though with a ſhaking hand) loveſt dearly God's children, therefore thou art a childe of God.</p>
+            <p>
+               <label>3.</label> The ſpirit of God is the ſpirit of promiſe, and the godly are ſaid to be ſealed therewith, <hi>Eph.</hi> 1.13. God hath given his people promiſes, confirmed theſe promiſes by oath, added thereunto outward ſeals, Baptiſm and the Supper of the Lord; and as though this were not ſufficient, he gives an inward ſeal, the ſpirit of his Son; the ſpirit diſcovers unto
+<pb n="13" facs="tcp:65383:5"/> them the fulneſs and freeneſs of the covenant; the preciouſneſs, certainty, and infallibility of the pro<g ref="char:EOLhyphen"/>miſes; ſo they are ſealed with the holy ſpirit of pro<g ref="char:EOLhyphen"/>miſe, and hereupon being ſealed, they ſet to their ſeal that God is true, <hi>Iohn.</hi> 3.33.</p>
+            <p>
+               <label>4.</label> The ſpirit alſo in the godly, ſeals them unto the day of redemption. <hi>Eph.</hi> 4.30. The day of Judge<g ref="char:EOLhyphen"/>ment though it ſhall be a day of wrath to the wick<g ref="char:EOLhyphen"/>ed, yet it ſhall be a day of redemption unto the Saints; they ſhall then be redeemed from the grave; they ſhall all be fully and everlaſtingly delivered from all evils; the ſpirit of God aſsures the Saints hereof; ſo that when they hear Chriſt ſay, <hi>Surely I come quickly;</hi> they do no ſay, <hi>God forbid;</hi> but <hi>Amen, Even ſo come Lord Jeſus.</hi>
+            </p>
+            <p>
+               <label>5.</label> Accordingly the ſpirit is the Earneſt of our inhe<g ref="char:EOLhyphen"/>ritance; <hi>Eph.</hi> 1.14. Believers are heirs, heirs of a countrey the Patriarchs ſought after, a Houſe whoſe builder and founder is God; a Kingdom that cannot be moved; an inheritance incorruptible, undefiled, that fades not away, reſerved in heaven for them; the ſpirit of God given to the Saints, is the earneſt of this countrey, houſe, kingdom, inheritance; ſomewhat of it ſecuring unto them the whole in time; the firſt-fruits of a plentiful harveſt.</p>
+            <p>
+               <label>6.</label> If the ſpirit of God be in us, <hi>he ſheds</hi> (ſaith the A<g ref="char:EOLhyphen"/>poſtle) <hi>the love of God abroad in our hearts: Rom.</hi> 5.5. He gives us to behold what manner of love the Fa<g ref="char:EOLhyphen"/>ther hath ſhewed unto us, how he loved us firſt; how his love is undeſerved; how it is abundant; how of children of wrath and hell, he hath made us chil<g ref="char:EOLhyphen"/>dren of God, heirs of God, coheirs with Jeſus
+<pb n="14" facs="tcp:65383:6"/> Chriſt, how it's an everlaſting love: God will not of a moſt merciful Father become a moſt inexora<g ref="char:EOLhyphen"/>ble Judge, as the <hi>Arminians</hi> ſaith: hereupon God lifts up the light of his countenance upon us, we feel his love, our hearts are warmed and raviſhed therewith, ſo that we return love for love, yea we love God above our lives.</p>
+            <p>
+               <label>7.</label> Another effect of the ſpirit of God, is ſeaſonably to comfort the hearts of the children of God: <hi>I will pray the Father,</hi> (ſaith Chriſt) <hi>and he ſhall ſend you a<g ref="char:EOLhyphen"/>nother comforter,</hi> John 14.16. he comforts the Saints concerning all their ſins committed, evils ſuffered, the diſpleaſure of God, aſſaults of Satan, malice of men; againſt the Law in the members rebelling, that body of death preſſing, and all ſpiritual wants pinching and grieving. </p>
+            <p>
+               <label>8.</label> Another bleſsed effect of the ſpirit of God, is Joy: <hi>The kingdom of God</hi> (ſaith the Apoſtle, <hi>Rom.</hi> 14 11.) <hi>conſists not in meat and drink, but righteouſneſs, peace, and joy in the Holy Ghoſt:</hi> this Joy is in Chriſt Jeſus, <hi>Phil.</hi> 3.3. in God's favour, <hi>Pſal.</hi> 4.7. in the word, <hi>Pſal.</hi> 119.111. <hi>Thy teſtimonies are the rejoicing of my heart, in hope of the glory of God, Rom.</hi> 5.2. It's a joy unſpeakable and full of glory, 1 <hi>Pet.</hi> 1.8. It's a joy that a ſtranger ſhall not meddle withall, <hi>Prov.</hi> 14.10. and that no man ſhall take from a childe of God, <hi>Iohn</hi> 16.22. It's a joy attained by the written word: <hi>Theſe things</hi> (ſaith <hi>John</hi>) <hi>I write unto you that your joy may be full,</hi> 1 Iohn 1.4.</p>
+            <p>
+               <label>9.</label> The good ſpirit of God helpeth the infirmities of the Saints, <hi>Rom.</hi> 8.26. ſtrengtheneth them with ſtrength in the inward man, <hi>Eph.</hi> 3.16. they of them<g ref="char:EOLhyphen"/>ſelves
+<pb n="15" facs="tcp:65383:6"/> are infirm, weak, afflictions are a burthen too heavy; Satan and the old man are too ſtrong; the work they have to do is too great; through the pre<g ref="char:EOLhyphen"/>ſence and aſſiſtance of the ſpirit they have ſtrong conſolation in the midſt of troubles, their faith is ſtrengthened, they give glory to God, their love is ſtrong as death, which many waters cannot quench; and notwithſtanding the difficulties and impedi<g ref="char:EOLhyphen"/>ments of holy duties, they are reſolved to go on.</p>
+            <p>
+               <label>10.</label> Accordingly the ſpirit of God emboldeneth be<g ref="char:EOLhyphen"/>lievers to appear for the truth and wayes of God, <hi>Acts</hi> 4.8.13. We are of our ſelves timerous, prone to ſhrink and ſhame all: the holy ſpirit of God is wont to put courage into the godly, that they dare hazard both Eſtate and life in the cauſe of Chriſt.</p>
+            <p>
+               <label>11.</label> Likewiſe the ſpirit of God maketh interceſſi<g ref="char:EOLhyphen"/>on for the Saints with groanings which cannot be uttered, <hi>Rom.</hi> 8.26,27. they know not what to ask as they ſhould, the ſpirit of God is the ſpirit of prayer, and helpeth them not onely to ſay, but cry <hi>Abba Father: Gal.</hi> 4.6. to cry day and night: <hi>Luke</hi> 18.7. to cry to God with their whole heart: <hi>Pſal.</hi> 119.145. <hi>We groan</hi> (ſaith the Apoſtle) <hi>being burthened:</hi> 2 <hi>Cor.</hi> 5.4. burthened with the body of death, ſins, temptations, afflictions, oftentimes with the ſence or fear of God's diſpleaſure, and come thus bur<g ref="char:EOLhyphen"/>thened into God's preſence, and pray to God with groans, yea groans that cannot be uttered.</p>
+            <p>
+               <label>12.</label> The Saints with open face beholding the glory of the Lord, are by the ſpirit (ſaith the Apoſtle) tranſ<g ref="char:EOLhyphen"/>formed into the ſame image, from glory to glory: 2 <hi>Cor.</hi> 3.18. the Saints are glorious in this world,
+<pb n="16" facs="tcp:65383:7"/> their glory is ſpiritual, it conſiſts in the image of Chriſt and of God, in righteouſneſs and true holi<g ref="char:EOLhyphen"/>neſs, the ſpirit doth change them from one degree of this glory unto another, till they be perfectly glorious in the kingdom of heaven.</p>
+            <p>
+               <label>13.</label> And as the ſpirit transforms into the image of Chriſt, ſo he is wont to bring the words of Chriſt (which they have heard) to their remembrance, <hi>Iohn</hi> 14.26. this is not below the ſpirit of God, for he is the ſpirit of the Son, and the Son's words are his words alſo; therefore he helpeth the weak and ſlippery memories of the Saints, bringeth God's word to their remembrance, that thereby they may reſiſt ſatan, anſwer gain-ſayers, edifie and comfort one another, preſerve themſelves from ſin, and com<g ref="char:EOLhyphen"/>fort themſelves in a time of trouble.</p>
+            <p>
+               <label>14.</label> Further, the ſpirit of God leads the ſaints, <hi>Rom.</hi> 8.14. they cannot ſtand but as he upholds them; they cannot go but as he leads them, he leads them in the old and good way, in the way of truth, in the way of God, of holineſs and righteouſneſs: in the way of wiſdom, humility, meekneſs, uprightneſs, peace: In a word, in the way of Gods commandments, the way of heaven: <hi>I will put</hi> (ſaith the Lord) <hi>my ſpirit within you, and cauſe you to walk in my Statutes, and ye ſhall keep my judgements, and do them, Ezek.</hi> 6.27. And this he doth by his voice in the Meſſengers of Chriſt ſounding in their ears, and his power and gracious influence upon their hearts.</p>
+            <p>Now concerning the Law, called the Command<g ref="char:EOLhyphen"/>ment, two commandments, ten words; know this for thy future &amp; eternal good, That <hi>Adam</hi> through his
+<pb n="17" facs="tcp:65383:7"/> loſt the image of God, conformity in heart, and life to the Law: Chriſt as Prieſt (beſides other things) hath purchaſed conformity to the Law: God in Chriſt hath promiſed this conformity: Chriſt as a Prophet he reveals the Law; as a King, ſubjects man's will unto it; and for this cauſe puts his ſpirit in the hearts of his people: God gives them faith whereby they believe, that God according to his gracious covenant will pardon their ſins, and put his Laws in their minds, and write them in their hearts, give them to obey the Law, and repentance alſo, e<g ref="char:EOLhyphen"/>ven ſorrow for breaking the commandments, with an endeavour of obedience; therefore the <hi>Antino<g ref="char:EOLhyphen"/>mian</hi> in ſlighting of the Law of God, (I ſpeak not of it as a covenant of works) ſlights Chriſt's three-fold-Office, ſlights the covenant of Grace, the Of<g ref="char:EOLhyphen"/>fice of the holy Ghoſt, bewrayes his want of the Divine nature, the image of God, the new man, which is ſubject to the Law of God, and to have a carnal mind, which neither is, nor can be ſubject to the law; he knowes not what Faith is, what repen<g ref="char:EOLhyphen"/>tance means. O <hi>Antinomian,</hi> that ſayeſt Chriſt muſt be all and man nothing; is Chriſt the Lord thy God? and doſt thou worſhip him? according to that <hi>Pſal.</hi> 45.ii. And whether art thou of the number of thoſe that every where call upon the Name of Jeſus Chriſt our Lord? according to that 1 <hi>Cor.</hi> 1.2. 2. Whether is Chriſt thy leader and commander? and doſt thou obey him? as it is <hi>Iſa.</hi> 55.4. He com<g ref="char:EOLhyphen"/>mands thee to repent, believe, ask, ſeek, knock, ſtrive to enter in at the ſtrait gate, to deny thy ſelf, take up thy croſs, to watch and pray, to ſay, <hi>Hallow<g ref="char:EOLhyphen"/>ed
+<pb n="18" facs="tcp:65383:8"/> be thy Name; thy kingdom come, thy will be done, &amp;c.</hi> to ſay, <hi>Forgive us our treſpaſſes:</hi> to pray in good ear<g ref="char:EOLhyphen"/>neſt for pardon of thy ſins daily: Doſt thou obey Chriſt herein? if not, though thou ſayeſt that Chriſt is thy all, yet thou doſt but mock Chriſt, and makeſt him nothing. I fear thou dreameſt (according to a diſcovery of thee, and ſuch as thou art) that Chriſt was but a meer man, and that coming unto God by faith, he was godded with God, and that herein he is an example and pattern unto us, and thou imita<g ref="char:EOLhyphen"/>ting Chriſt herein, thou likewiſe art godded with God, equal to Chriſt, yea paſt him in reſpect of any further uſe thou haſt of him, and a Chriſt to others: O <hi>Antinomian,</hi> God ere long will awake thee out of thy dream concerning his Son and thy ſelf, fear ſhall ſurpriſe thee, the terrors of God ſhall compaſs thee, trouble and anguiſh ſhall take hold upon thee.</p>
+            <p>
+               <label>15.</label> The ſpirit of God is a free ſpirit, and doth eſta<g ref="char:EOLhyphen"/>bliſh the people of God: <hi>Establiſh me</hi> (ſaith <hi>Da<g ref="char:EOLhyphen"/>vid</hi>) <hi>with thy free ſpirit:</hi> he is free in his operations, he bloweth where he liſteth; his influences and brea<g ref="char:EOLhyphen"/>things are gracious, <hi>Pſal.</hi> 51.12. he frees the ſpirits of the ſaints for, and in duties of piety and mercy; he doth ſtabliſh, ſtrengthen, and ſettle the ſaints according to the promiſe, 1 <hi>Pet.</hi> 5.10. he doth not ſuffer the ſouls in whom he dwells, to be unſta<g ref="char:EOLhyphen"/>ble ſouls, toſsed to and fro, and carryed about with every wind of Doctrine, to turn <hi>Anabaptiſts,</hi> ſepera<g ref="char:EOLhyphen"/>tiſts, <hi>Quakers,</hi> Blaſphemers; to turn with the dog to the vomit, and the ſow to the wallowing in the mire, and the unclean ſpirit to return with ſeven other
+<pb n="19" facs="tcp:65383:8"/> ſpirits worſe then himſelf, that ſo his latter end ſhould be worſe then his beginning.</p>
+            <p>Laſtly, they that are poſſeſſed with the holy Ghoſt, are far from ſinning againſt the holy Ghoſt, yea they are troubled at the thought of that ſin; this ſin is not as ſome fancy, when a man will not be con<g ref="char:EOLhyphen"/>vinced by miracles that Jeius is the Chriſt: this ſin is after illumination, conviction: It is ſaith Chriſt, a word againſt the holy Ghoſt; it is blaſpheming and reproaching the holy Ghoſt, as we read expreſly in the Evangeliſts; thoſe that after they have eſcaped the pollutions of the world by the knowledge of the Lord Jeſus, do depart from the holy command<g ref="char:EOLhyphen"/>ment given unto them, and wallow in ſin, that ſin willingly after they have received the knowledge of the truth, do deſpite (it's ſaid expreſly) to the ſpirit of grace, and are guilty of this ſin: ſee <hi>Heb.</hi> 10. 2 <hi>Pet.</hi> 2. The Phariſees ſinned againſt the holy ghoſt in ſaying that that ſpirit by which Chriſt ſpake and wrought Miracles, was an unclean ſpirit: <hi>Mark</hi> 3: 28,29,30.</p>
+            <p>And do not our <hi>Quakers</hi> (thoſe I mean who were enlightened) ſin againſt the holy ghoſt, in ſaying that that ſpirit in Chriſt's Miniſters by which they preach, which is the ſame ſpirit, is an unclean ſpirit, a Devil?</p>
+            <p>Yea; they that are poſſeſsed with the holy ghoſt are not only far from ſinning againſt the holy ghoſt, but they are afraid of thoſe ſins we read of in the Scri<g ref="char:EOLhyphen"/>ptures, <hi>viz.</hi> Tempting, reſiſting, &amp; vexing of the holy ſpirit of God; yea further, of quenching, or grieving of him; and when as through ſin he is grieved, their
+<pb n="14" facs="tcp:65383:9"/> ſpirits are grieved, their ſouls are greatly troubled, they cry out, <hi>Take not thy holy ſpirit from us, Pſal.</hi> 51.11.</p>
+            <p>But ſome may ſay, It ſeems that ſome that are en<g ref="char:EOLhyphen"/>lightened taſte of the heavenly gift, are made parta<g ref="char:EOLhyphen"/>kers of the holy ghoſt, fall away, and ſo fall ſhort of heaven.</p>
+            <p>I anſwer, The ſeed of ſaving grace once ſown in the heart of a man though it be but as a grain of Muſtard-ſeed, doth never periſh, but through the ſpirit of grace is ſtil preſerved; this grace in the very firſt moment it is infuſed, created, differeth much from that we call common grace; it's a thouſand times better, a fruit of God's eternal love, purchaſed with Chriſt's blood, and promiſed onely to ſuch as God ſprinkles with this blood, <hi>Ezek.</hi> 36.25,26. and differenceth a mans duties from the duties of the un<g ref="char:EOLhyphen"/>godly, both in reſpect of the manner and end; as al<g ref="char:EOLhyphen"/>ſo though it be but a dram, it denominateth a man gracious, and in time is prevalent againſt corrupti<g ref="char:EOLhyphen"/>ons. The ſpirit of God may (in reference to the glory of God, &amp; the churches good) inlighten the reprobate by the Miniſtry of the word, ſo as he may be much affected &amp; reformed, yet he never attains a new heart, a good &amp; honeſt heart, he never becomes a new crea<g ref="char:EOLhyphen"/>ture, all his reluctancy and duties are in reference to himſelf; his faith is feigned, his love is feigned, he himſelf but a wretched hypocrite at the beſt; there is alwayes a vaſt diſtance even betwixt him and the broken Reed; betwixt his grace (if you call it grace) and the ſmoking flax; the root of the matter is not in him, neither any good thing towards the Lord:
+<pb facs="tcp:65383:9"/> 
+               <hi>Jehu</hi> though he was zealous for the Lord, and <hi>Judas</hi> forward for the poor, yet they had no ſpark of true grace: <hi>Solomon</hi> when he was at the loweſt, had a ſpark, though no more, and that buryed under many aſhes: he had ſomewhat of the Divine nature, they nothing of that nature; his did differ much from theirs, even in the ſpecies, form, and <hi>eſſe</hi> thereof.</p>
+            <p>Hence it neceſſarily follows, that they who are not enlightened, know not all things neceſſary to be known unto ſalvation, are not comforted, ſealed, have not the love of God ſhed abroad in their hearts, do not boldly profeſs the truth, do not call upon the Name of the Lord with groans, do not walk in the wayes of God, <hi>&amp;c.</hi> however they may pretend to the ſpirit of grace, yet they never had, neither as yet have him dwelling in them.</p>
+            <p>Further I add, that they which ſpeak evil of the Scriptures, are void likewiſe of the ſpirit, for the Scriptures are the words, inſpiration, and breath of the ſpirit of God; <hi>holy men of God ſpake</hi> (ſaith the A<g ref="char:EOLhyphen"/>poſtle) <hi>as they were moved by the Holy Ghost,</hi> 2 <hi>Pet.</hi> 1.20,21. <hi>Paul</hi> tells us, that the words of <hi>David, Pſal.</hi> 95.7. are the words of the holy ghoſt, <hi>Heb.</hi> 3.7. <hi>As the Holy Ghoſt ſaith, Harden not your hearts:</hi> the holy ghoſt is ſaid ſeven times in the ſecond &amp; third chap<g ref="char:EOLhyphen"/>ters of the <hi>Revelation,</hi> to ſpeak unto the churches thoſe words which <hi>St. Iohn</hi> from the mouth of Jeſus Chriſt writ unto the churches.</p>
+            <p>Laſtly: <hi>Jude</hi> ſaith expreſly, that ſuch as deſpiſe Do<g ref="char:EOLhyphen"/>minion, ſpeak evil of Dignities, go in <hi>Cain's</hi> way, run greedily after the error of <hi>Balaam,</hi> gainſay with <hi>Core,</hi> that ſpeak great ſwelling words, and ſeperate them<g ref="char:EOLhyphen"/>ſelves,
+<pb facs="tcp:65383:10"/> are ſenſual not having the ſpirit. There is a ſeperation lawful, warrantable neceſſary he mem<g ref="char:EOLhyphen"/>bers of the church of <hi>Corinth</hi> are called out from a<g ref="char:EOLhyphen"/>mong the Idolatrous heathen, and commanded to ſeperate from them, 2 <hi>Cor.</hi> 6. but not any member of the church of <hi>Corinth</hi> was commanded to come out of the church it ſelf, or to ſeperate from the body thereof, though it was very corrupt, ſuch a ſeperati<g ref="char:EOLhyphen"/>on is expreſly forbidden in the Book of God, <hi>Heb.</hi> 10.</p>
+            <p>It's lawful, yea neceſsary, to ſeperate from the church of <hi>Rome,</hi> it's <hi>Babylon,</hi> out of it we are called: this heavenly call we have ſo far obeyed, as that we are condemned for hereticks, have reſiſted unto blood, many have been burnt at ſtakes: Have they charity and the ſpirit of God, that dare forſake, and alſo condemn our Aſsemblies?</p>
+            <p>But ſome may ſay upon the reading of this Diſ<g ref="char:EOLhyphen"/>courſe, What means ſhould we uſe that God may pour down his ſpirit upon us?</p>
+            <p>I anſwer, We muſt ask the ſpirit of God: Chriſt ſaith, <hi>Luke</hi> 11.13. <hi>If ye who are evil know how to give good gifts unto your children, how much more ſhall your heavenly Father give the Holy Ghoſt to thoſe that ask him?</hi> It's duty, not preſumption to pray for him.</p>
+            <p>
+               <label>2.</label> We muſt attend upon the word, it's the cha<g ref="char:EOLhyphen"/>riot of the ſpirit, and turn alſo at God's reproof: <hi>Prov.</hi> 1.23. <hi>Turn ye at my reproof, ſaith the Lord: Be<g ref="char:EOLhyphen"/>hold</hi> I <hi>will pour out my ſpirit unto you,</hi> I <hi>will make known my words unto you.</hi>
+            </p>
+            <p>
+               <label>3.</label> We muſt thirſt after the Water of life, the ſpirit of God: I <hi>will</hi> (ſaith the Lord) <hi>pour water up<g ref="char:EOLhyphen"/>on the thirſty, and floods upon the dry ground; I will pour
+<pb n="23" facs="tcp:65383:10" rendition="simple:additions"/> my ſpirit upon thy ſeed, and my bleſsing upon thy off<g ref="char:EOLhyphen"/>ſpring,</hi> Iſa. 44.3.</p>
+            <p>
+               <label>4.</label> We muſt believe on the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, Chriſt in<g ref="char:EOLhyphen"/>viting the thirſty to come unto him, and promiſing water of life unto them: <hi>John</hi> 7.37,38,39. It's ſaid, <hi>This he ſpake of the ſpirit which they that believe on him ſhould receive.</hi>
+            </p>
+            <p>
+               <label>5.</label> Let us diſtinguiſh betwixt that new heart and ſpirit which God according to his promiſe puts in his people, and God's holy ſpirit which he hath pro<g ref="char:EOLhyphen"/>miſed to put within them: We muſt neceſſarily di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt grace, and the ſpirit of grace; the new creature, and the Creator: The Lord ſaith in <hi>Ezek.</hi> 36.26. <hi>A new heart will I give unto you, and a new ſpirit will I put within you:</hi> And verſe 27. he adds another promiſe, and ſaith he, I <hi>will put my ſpirit within you.</hi> And the Apoſtle <hi>Rom.</hi> 8.9. ſaith, <hi>Ye are not in the fleſh, but in the ſpirit, if ſo be the ſpirit of God dwell in you: Now if any have not the ſpirit of Chriſt, he is none of his.</hi> Diſtinguiſh alſo betwixt the ſpirit's being in a man in reſpect of his eſsence, and in re<g ref="char:EOLhyphen"/>ſpect of his influence and operations: The Lord pro<g ref="char:EOLhyphen"/>miſeth in many places (ſaith Orthodox <hi>Downam</hi> in his <hi>Christian Warfare</hi>) to give unto us his holy ſpirit, which is not onely to be underſtood of the gifts and graces of the ſpirit, but alſo of the vertue and effi<g ref="char:EOLhyphen"/>cacy of the ſpirit dwelling in us.</p>
+            <p>Let us alſo lean upon the good ſpirit of God, truſt in him for direction, guidance, aſſiſtance in all things, let us give him glory herein, and he will be with us, quicken, ſettle, lead &amp; perfect us. To whom with the Father and his dear Son Jeſus Chriſt, be glory for ever. <hi>Amen. Amen.</hi>
+            </p>
+            <pb facs="tcp:65383:11"/>
+            <p>
+               <hi>REader,</hi> becauſe ſome pages are vacant, I thought good to put down certain railing ſpeeches of the Papiſts againſt our Proteſtant-Miniſters, that it may appear to all our hearers that the <hi>Quakers</hi> are either diſciples to the Papiſts, or their confederates, or at the leaſt led, or rather miſled by the ſame ſpirit.</p>
+            <p>Some of their railings are theſe that follow:
+<list>
+                  <item>The Devil poſseſseth you.</item>
+                  <item>The ſpirit of the Devil is within you.</item>
+                  <item>The Devil reigneth in your hearts.</item>
+                  <item>Ye are moved by the inſtinct of Satan.</item>
+                  <item>The Devil hath you faſt bound.</item>
+                  <item>Ye are the children of the Devil.</item>
+                  <item>Ye are the limbs of Antichriſt.</item>
+                  <item>Ye are the practiſed Miniſters of Antichriſt.</item>
+                  <item>Your Babilonical tower.</item>
+                  <item>Ye are faſt bound in Satans fetters.</item>
+                  <item>Ye have learned of the Devil.</item>
+                  <item>The ſpirit of Satan is in you.</item>
+                  <item>Satan holds you captive.</item>
+                  <item>Thou Heretick <hi>Judas, Beelzebub.</hi>
+                  </item>
+                  <item>You are Miſcreants.</item>
+               </list>
+            </p>
+            <p>Theſe railing ſpeeches, with many others, are ga<g ref="char:EOLhyphen"/>thered out of the writings of Mr. <hi>Harding</hi> and o<g ref="char:EOLhyphen"/>ther Popiſh-writers, by thoſe two famous Divines, B. <hi>Jewel,</hi> &amp; D. <hi>Willet,</hi> and are ſet down in B. <hi>Jewel</hi>'s De<g ref="char:EOLhyphen"/>fence of the <hi>Apology of the Church of England,</hi> and Dr. <hi>Wil-let</hi>'s <hi>Four Pillars of Popery.</hi>
+            </p>
+            <pb n="15" facs="tcp:65383:11" rendition="simple:additions"/>
+            <p>Call to mind good <hi>Reader,</hi> what railing ſpeeches thou haſt heard out of the mouths of the <hi>Quakers,</hi> and compare them with theſe railings of the Pa<g ref="char:EOLhyphen"/>piſts, and then judge whether they or we be more popiſh.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
